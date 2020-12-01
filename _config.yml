@@ -1,3 +1,5 @@
 name: Group C, MMS 142
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-merlot
