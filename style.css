@@ -8,15 +8,15 @@ html {
 }
 body {
   box-sizing: border-box;
-  font-family: century gothic;
+  font-family: sans-serif;
   background: black;
   color: #fff;
 }
 
 img {
-  width: 100%;
-  height:50;
-  position: relative;
+  width: 700px;
+  height: 500px;
+}
 
 a {
   text-decoration: none;
@@ -123,32 +123,26 @@ header {
 .kv__images {
   display: flex;
   justify-content: center;
-  max-width: 100px;
+  max-width: 1000px;
   margin: auto;
   position: relative;
-  height: 100px;
+  height: 500px;
 }
 
 .kv__img {
-  max-width: 100px;
+  max-width: 300px;
   position: absolute;
 }
 
 .kv__img01 {
-  left: 220px;
-  bottom: 40px;
-}
+  left: 500px;
+  bottom: 60px;
 
 }
 
-.sec01__video{
+.sec01__video,
+.sec02__video {
   width: 1000px;
   height: 800px;
-  margin: auto;
-}
-
-.sec02__video {
-  width: 900px;
-  height: 600px;
   margin: auto;
 }
