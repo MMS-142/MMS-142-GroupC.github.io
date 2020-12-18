@@ -17,14 +17,6 @@ img {
   width: 300%;
   height:50;
   position: relative;
-  
-
-}
-
-style{
-  opacity: 30%;
-  transition: hover;
-}
 
 a {
   text-decoration: none;
@@ -95,6 +87,7 @@ header {
 .sec03 {
   max-width: 1200px;
   margin: auto;
+  opacity: 30:
 }
 
 .sec04 {
