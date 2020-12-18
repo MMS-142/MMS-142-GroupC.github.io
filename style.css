@@ -157,9 +157,14 @@ header {
   left: 120px;
 }
 
-.sec01__video,
+.sec01__video{
+  width: 900px;
+  height: 600px;
+  margin: auto;
+}
+
 .sec02__video {
-  width: 1000px;
-  height: 800px;
+  width: 900px;
+  height: 600px;
   margin: auto;
 }
