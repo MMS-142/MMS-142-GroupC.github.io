@@ -21,6 +21,11 @@ img {
 
 }
 
+style{
+  opacity: 30%;
+  transition: hover;
+}
+
 a {
   text-decoration: none;
   color: #fff;
